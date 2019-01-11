@@ -27,11 +27,24 @@ body{
 	line-height: 150px;
 	margin: 0;
 }
-.navbar{
-	position: absolute;
+.navbar ul{
 	float: left;
-	top: 180px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #653D3D;
 	height: 50px;
 	width: 100%;
-	background-color: #653D3D;
+}
+.navbar ul li{
+	float: left;
+}
+.navbar ul li a{
+	display: block;
+	padding: 10px;
+	font-size: 1.5em;
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
 }
