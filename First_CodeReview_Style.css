@@ -59,7 +59,7 @@ body{
 	max-width: 880px;
 	left: 50%;
 	transform: translateX(-50%);
-	margin: 100px 0px;
+	margin: 108px 0px;
 }
 .heading h1{
 	color: #313131;
@@ -67,9 +67,20 @@ body{
 	font-size: 5.0em;
 	margin: 0;
 }
-.blogs{
+.blogs ul{
 	float: left;
-	width: 100%;
-	height: 50px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
 	background-color: #978484;
+	height: 50px;
+	width: 100%;
+}
+.blogs ul li {
+	display: block;
+	padding: 10px;
+	font-size: 1.5em;
+	color: white;
+	margin-left: 10px;
 }
