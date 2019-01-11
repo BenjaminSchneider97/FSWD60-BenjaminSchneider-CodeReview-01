@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 100%;
+	height: 150px;
+	background-color: #EDEDED;
+	padding: 15px 0px;
+	float: left;
+}
+.header img{
+	position: absolute;
+	float: left;
+}
+.headertext{
+	position: absolute;
+	left: 440px;
+	width: 1000px;
+	height: 150px;
+	float: left;
+}
+.header h1{
+	line-height: 150px;
+	vertical-align: middle;
+	margin: 0;
+}
