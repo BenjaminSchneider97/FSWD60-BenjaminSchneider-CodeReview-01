@@ -151,3 +151,10 @@ img{
 	transform: translateX(-50%);
 	margin: 108px 0px;
 }
+.avatar	{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 5px solid black;
+	margin: 0 15px 15px 15px;
+}
