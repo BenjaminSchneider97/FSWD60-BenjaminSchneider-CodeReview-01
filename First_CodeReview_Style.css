@@ -158,3 +158,9 @@ img{
 	border: 5px solid black;
 	margin: 0 15px 15px 15px;
 }
+.section table{
+	text-align: left;
+}
+.section table td{
+	padding-left: 15px;
+}
