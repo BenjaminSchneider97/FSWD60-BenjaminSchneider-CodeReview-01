@@ -84,6 +84,9 @@ body{
 	color: white;
 	margin-left: 10px;
 }
+.allimages{
+	float: left;
+}
 div.images{
 	width: 40%;
 	float: left;
@@ -103,4 +106,25 @@ img{
 		float: none;
 		margin: 5px 5px;
 	}
+}
+.bottomline{
+	width: 100%;
+	float: left;
+	height: 15px;
+	background-color: #978484;
+	margin:  5% 0 2% 0;
+}
+.footer{
+	float: left;
+	width: 100%;
+}
+.footertext{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+}
+.footertext img{
+	width: 50%;
+	height: auto;
 }
