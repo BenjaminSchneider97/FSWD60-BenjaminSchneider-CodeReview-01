@@ -59,6 +59,7 @@ body{
 	text-decoration: none;
 	color: #FFFFFF;
 	margin-left: 10px;
+	font-weight: bold;
 }
 /* This is the background of the heading */
 .heading {
@@ -99,6 +100,7 @@ body{
 	font-size: 1.5em;
 	color: #FFFFFF;
 	margin-left: 10px;
+	font-weight: bold;
 }
 /* This is for all 4 images */
 .allimages{
