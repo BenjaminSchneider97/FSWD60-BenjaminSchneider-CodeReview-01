@@ -112,6 +112,11 @@ img{
 		margin: 10px 10px;
 	}
 }
+.bottom {
+	position: fixed;
+	width: 100%;
+	bottom: 129px;
+}
 .bottomline{
 	width: 100%;
 	float: left;
@@ -132,4 +137,17 @@ img{
 .footertext img{
 	width: 50%;
 	height: auto;
+}
+.article{
+	float: left;
+	width: 100%;
+	overflow: auto;
+	min-height: 400px;
+}
+.section{
+	position: relative;
+	max-width: 880px;
+	left: 50%;
+	transform: translateX(-50%);
+	margin: 108px 0px;
 }
