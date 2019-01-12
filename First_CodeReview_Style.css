@@ -40,7 +40,8 @@ body{
 	padding: 0;
 	overflow: hidden;
 	background-color: #653D3D;
-	height: 50px;
+	min-height: 50px;
+	height: auto;
 	width: 100%;
 }
 .navbar ul li{
