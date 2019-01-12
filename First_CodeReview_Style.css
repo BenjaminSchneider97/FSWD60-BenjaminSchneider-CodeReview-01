@@ -129,6 +129,10 @@ img{
 		float: none;
 		margin: 10px 10px;
 	}
+	div.navbar ul li {
+		width: 25%;
+		text-align: center;
+	}
 }
 /* This is for the positioning of the footer */
 .bottom {
