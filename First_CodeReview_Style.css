@@ -87,6 +87,11 @@ body{
 .allimages{
 	float: left;
 }
+.space{
+	width: 100%;
+	float: left;
+	height: 1px;
+}
 div.images{
 	width: 40%;
 	float: left;
@@ -104,7 +109,7 @@ img{
 	div.images{
 		width: auto;
 		float: none;
-		margin: 5px 5px;
+		margin: 10px 10px;
 	}
 }
 .bottomline{
