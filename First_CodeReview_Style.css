@@ -84,3 +84,19 @@ body{
 	color: white;
 	margin-left: 10px;
 }
+.img1{
+	float: left;
+	padding: 20px 20px 20px 20%;
+}
+.img1 figcaption{
+	max-width: 400px;
+	font-weight: bold;
+}
+.img2{
+	float: right;
+	padding: 20px 20% 20px 20px;
+}
+.img2 figcaption{
+	max-width: 400px;
+	font-weight: bold;
+}
