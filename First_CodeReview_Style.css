@@ -40,6 +40,10 @@ body{
 .navbar ul li{
 	float: left;
 }
+.line:hover{
+	transition: 0.3s;
+	color: black;
+}
 .navbar ul li a{
 	display: block;
 	padding: 10px;
